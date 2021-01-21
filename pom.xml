@@ -16,7 +16,7 @@
         <jboss.logging.version>3.3.1.Final</jboss.logging.version>
         <jboss.logging.tools.version>2.0.1.Final</jboss.logging.tools.version>
         <jackson.version>2.8.9</jackson.version>
-        <jackson.databind.version>2.8.9</jackson.databind.version>
+        <jackson.databind.version>2.9.10.7</jackson.databind.version>
         <lombok.version>1.16.10</lombok.version>
         <http.components.version>4.5.2</http.components.version>
         <jboss.jms-api.version>1.0.0.Final</jboss.jms-api.version>
